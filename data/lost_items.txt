@@ -1,0 +1,5 @@
+L-101|Blue Hydro Flask Water Bottle|OTHER|Main Library 2nd Floor|2026-10-25|32oz dark blue Hydro Flask with NASA and coding stickers|alex.smith@campus.edu|OPEN|Alex Smith|10.0
+L-102|Apple AirPods Pro Case|ELECTRONICS|Student Center Cafeteria|2026-10-24|White AirPods Pro with small green silicone case|maria.g@campus.edu|OPEN|Maria Garcia|25.0
+L-103|Student ID & Room Keycard|STUDENT_ID_KEYS|Science Building Room 204|2026-10-26|Campus ID card for Jordan Lee with red dorm lanyard and silver key|jlee@campus.edu|OPEN|Jordan Lee|0.0
+L-104|Calculus Early Transcendentals Textbook|BOOKS_STATIONERY|Math Building Hallway|2026-10-23|Hardcover 8th edition with blue spine and yellow sticky tabs|devon.w@campus.edu|OPEN|Devon White|15.0
+L-105|Lost MacBook Pro|ELECTRONICS|Library 1st floor|2026-10-27|Silver 14 inch MacBook with developer stickers|jane@campus.edu|OPEN|Jane Doe|50.0
