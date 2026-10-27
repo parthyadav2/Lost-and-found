@@ -4,7 +4,7 @@ A console-based Java application designed for academic coursework demonstrating 
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 This project solves the everyday campus problem of misplaced belongings (student IDs, laptops, water bottles, keys, books) by connecting students who lost items with campus security or finders.
 
 ### Key Highlights
@@ -16,7 +16,7 @@ This project solves the everyday campus problem of misplaced belongings (student
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 campus-lost-and-found/
@@ -44,7 +44,7 @@ campus-lost-and-found/
 
 ---
 
-## 💡 Object-Oriented Programming (OOP) Concepts Demonstrated
+##  Object-Oriented Programming (OOP) Concepts Demonstrated
 
 When submitting or presenting this project for your Java class, you can highlight:
 
@@ -75,7 +75,7 @@ When submitting or presenting this project for your Java class, you can highligh
 
 ---
 
-## 🔍 How the Matching Algorithm Works
+##  How the Matching Algorithm Works
 
 The `MatchingEngine` compares each active lost item against active found items and scores them out of 100 points:
 
@@ -90,7 +90,7 @@ If total score $\ge$ 45%, it is flagged as a candidate match.
 
 ---
 
-## 🚀 How to Compile and Run
+##  How to Compile and Run
 
 ### Option 1: Using the provided scripts (Windows)
 Double-click `compile.bat` then `run.bat`, or in terminal:
